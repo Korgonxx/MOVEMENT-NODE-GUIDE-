@@ -46,3 +46,6 @@ movement manage install m1 testnet
 ```
 movement ctl start m1 testnet
 ```
+
+
+# NOTE CURRENLY TESTNET IS NOT LIVE YET WE WILL UPDATE THE GUIDE ASAP WHENEVER TESTNET GOES LIVE !!!!!!!
