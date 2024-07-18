@@ -6,4 +6,3 @@ About Movement Labs
 > Movement Labs is on a mission to create a global community of Move builders, working together to increase the security, performance, and user experience of building in decentralized networks.
 
 > Movement abstracts away the complexity of decentralized application deployments across modular blockchain networks through instantiations of connected Move Virtual Machines, making it easy for developers and infrastructure providers to integrate across many networks with a single command line interface (CLI).
-
