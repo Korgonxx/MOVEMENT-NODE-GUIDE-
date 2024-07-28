@@ -36,7 +36,8 @@ bash <(curl -fsSL https://raw.githubusercontent.com/movemntdev/M1/main/scripts/i
 ```
 ## Add movement to .bashrc 
 ```
-echo 'export PATH=$PATH:/path/to/movement' >> ~/.bashrc 
+export PATH="/root/.movement/bin:$PATH"
+source ~/.bashrc
 ```
 ## Install the testnet artifacts:
 ```
