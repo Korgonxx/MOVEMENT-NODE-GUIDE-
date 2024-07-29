@@ -7,16 +7,22 @@ About Movement Labs
 
 > Movement abstracts away the complexity of decentralized application deployments across modular blockchain networks through instantiations of connected Move Virtual Machines, making it easy for developers and infrastructure providers to integrate across many networks with a single command line interface (CLI).
 
-<a href="https://movementlabs.xyz/" target="_blank"><img src="https://github.com/user-attachments/assets/cdb62800-9a8d-4e9e-848a-46c8278afd24" alt="Website" width="100" height="22"></a>
-
-
-<a href="https://github.com/movementlabsxyz" target="_blank"><img src="https://github.com/user-attachments/assets/b03b6a35-8eb1-43e6-8831-35e34167f76c" alt="GitHub" width="100" height="22" ></a>
-
-
-<a href="https://x.com/movementlabsxyz" target="_blank"><img src="https://github.com/user-attachments/assets/2a436f53-54f9-4f15-bf6b-539a5fa24a13" alt="Twitter" width="100" height="22"></a>
-
-
-<a href="https://discord.gg/Nw93MK6Z" target="_blank"><img src="https://github.com/user-attachments/assets/e072562a-487a-4bc9-ae92-cfa9fa5798c8" alt="Discord" width="100" height="22"></a>
+   <p align="left">
+      <a href="https://movementlabs.xyz/">
+        <img alt="Visit Movement Website" src="https://img.shields.io/badge/WEBSITE-red"> 
+      </p>
+           <p align="left">
+      <a href="https://github.com/movementlabsxyz">
+         <img alt="Github" title="Movement Github" src="https://img.shields.io/badge/GITHUB-yellow">
+      </p>
+        <p>
+           <a href="https://x.com/movementlabsxyz">
+         <img alt="Twitter" title="Follow Movementon X" src="https://img.shields.io/badge/TWITTER-blue">
+        </p>
+     <p>
+         <a href="https://discord.gg/Nw93MK6Z">
+         <img alt="Discord" title=" Join Movement" <img alt="Static Badge" src="https://img.shields.io/badge/DISCORD-green">
+     </p>
 
 # Hardware Requirements
 
